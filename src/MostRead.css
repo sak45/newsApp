@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500&display=swap');
+
+.main-div  {
+    font-family: 'Lora', serif;
+    text-align: left;
+    padding: 18px 12px;
+    padding-bottom: 0;
+}
+
+.main-img {
+    width: 400px;
+    height: 250px;
+    margin: 0;
+}
+
+.text-header {
+  
+    margin: 0;
+}
+
+.text-p {
+    font-weight: 400;
+    margin: 0;
+    padding: 10px 0;
+}
+
+.unorded-list {
+    margin: 0;
+    padding: 10px 20px;
+    font-size: 14px;
+}
+
+.unorded-list li {
+    margin-bottom: 5px;
+}
+
+.border-wrap {
+    display: flex;
+    justify-content: center;
+}
+
+.border-bottom2 {
+    border-bottom: 2px solid lightgray;
+    width: 300px;
+    margin-top: 15px;
+}  
+
+/* listed-divs below */
+
+.listed-divs {
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    font-family: 'Lora', serif;
+    padding: 8px 12px;
+}
+
+
+.listed-img {
+    height: 100%;
+    width: 170px;
+    margin: 0;
+}
+
+.listed-divs-header {
+    margin: 0;
+    font-weight: 550;
+}
+
+.listed-divs-time {
+    margin: 0;
+}
+
+.text-divs {
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+}
+
+
+
+.border-bottom1 {
+    border-bottom: 2px solid lightgray;
+    width: 300px;
+}  

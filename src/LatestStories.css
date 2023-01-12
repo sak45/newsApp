@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500&display=swap');
+
+.body-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  padding: 18px 10px ;
+
+}
+
+
+.News-div {
+  text-align: left;
+  padding: 5px 15px;
+  font-family: 'Lora', serif;
+  background-color: #48CAE4;
+  border: 2px solid #48CAE4;
+  border-radius: 5px;
+}
+
